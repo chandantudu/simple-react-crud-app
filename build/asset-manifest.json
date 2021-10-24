@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/simple-react-crud/build/static/css/main.d129eeba.chunk.css",
-    "main.js": "/simple-react-crud/build/static/js/main.05119368.chunk.js",
-    "main.js.map": "/simple-react-crud/build/static/js/main.05119368.chunk.js.map",
-    "runtime-main.js": "/simple-react-crud/build/static/js/runtime-main.ee3a90d6.js",
-    "runtime-main.js.map": "/simple-react-crud/build/static/js/runtime-main.ee3a90d6.js.map",
-    "static/js/2.7a5a9fb5.chunk.js": "/simple-react-crud/build/static/js/2.7a5a9fb5.chunk.js",
-    "static/js/2.7a5a9fb5.chunk.js.map": "/simple-react-crud/build/static/js/2.7a5a9fb5.chunk.js.map",
-    "static/js/3.72c9c905.chunk.js": "/simple-react-crud/build/static/js/3.72c9c905.chunk.js",
-    "static/js/3.72c9c905.chunk.js.map": "/simple-react-crud/build/static/js/3.72c9c905.chunk.js.map",
-    "index.html": "/simple-react-crud/build/index.html",
-    "static/css/main.d129eeba.chunk.css.map": "/simple-react-crud/build/static/css/main.d129eeba.chunk.css.map",
-    "static/js/2.7a5a9fb5.chunk.js.LICENSE.txt": "/simple-react-crud/build/static/js/2.7a5a9fb5.chunk.js.LICENSE.txt"
+    "main.css": "/simple-react-crud-app/build/static/css/main.d129eeba.chunk.css",
+    "main.js": "/simple-react-crud-app/build/static/js/main.05119368.chunk.js",
+    "main.js.map": "/simple-react-crud-app/build/static/js/main.05119368.chunk.js.map",
+    "runtime-main.js": "/simple-react-crud-app/build/static/js/runtime-main.05306826.js",
+    "runtime-main.js.map": "/simple-react-crud-app/build/static/js/runtime-main.05306826.js.map",
+    "static/js/2.7a5a9fb5.chunk.js": "/simple-react-crud-app/build/static/js/2.7a5a9fb5.chunk.js",
+    "static/js/2.7a5a9fb5.chunk.js.map": "/simple-react-crud-app/build/static/js/2.7a5a9fb5.chunk.js.map",
+    "static/js/3.72c9c905.chunk.js": "/simple-react-crud-app/build/static/js/3.72c9c905.chunk.js",
+    "static/js/3.72c9c905.chunk.js.map": "/simple-react-crud-app/build/static/js/3.72c9c905.chunk.js.map",
+    "index.html": "/simple-react-crud-app/build/index.html",
+    "static/css/main.d129eeba.chunk.css.map": "/simple-react-crud-app/build/static/css/main.d129eeba.chunk.css.map",
+    "static/js/2.7a5a9fb5.chunk.js.LICENSE.txt": "/simple-react-crud-app/build/static/js/2.7a5a9fb5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee3a90d6.js",
+    "static/js/runtime-main.05306826.js",
     "static/js/2.7a5a9fb5.chunk.js",
     "static/css/main.d129eeba.chunk.css",
     "static/js/main.05119368.chunk.js"
